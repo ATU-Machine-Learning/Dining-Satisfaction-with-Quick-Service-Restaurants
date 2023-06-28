@@ -1,5 +1,5 @@
 # Quick Service Restaurant Recommender
-Given survey results on local Quick Service Restaurants (QSR) in Russellville, AR., this project will guide through the development of a recommendation system. For instance, if Students preferred QSR _X_ given a set of preferences, then recommend _X_ to future students with a similar degree of preferences.
+Given survey results on local Quick Service Restaurants (QSR) via the Dining Satisfaction with Quick Service Restaurants dataset, this project will guide through the development of a clustering-based recommendation system.
 
 ## Prerequisites
 Programming experience in Python is recommended.
